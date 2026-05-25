@@ -14,7 +14,7 @@
 <li>My hands to type lorh</li>
 </ul>
 <h2>Projects done</h2>
-<h3>Simple cafe receipt menu project (smartBarista.py)</h3>
+<h3>Simple cafe receipt menu project (smartBarista.py) - based on Python MOOC Part 1</h3>
 <p style="text-decoration:underline;">Concepts learned</p>
 <ul>
 <li>Very very basic Python "elements" (variables), print function
